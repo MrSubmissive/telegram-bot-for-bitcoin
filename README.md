@@ -45,13 +45,6 @@ First Join Channel :
 * Earn #Bitcoin
 , #Litecoin, #Dogecoin #BCH #ZEC ~$50 Per Day! New Method - Pdf link : [http://bit.ly/3q1ACec](http://bit.ly/3q1ACec)
 
-
-
-# Telegram Groups
-
-[![Join Telegram Group](https://img.shields.io/badge/telegram-Money--Talks-green?style=for-the-badge&logo=telegram)](https://t.me/EarnCoinPerDay)
-
-
 # What is THAT ?!
 This script join channels , message bots, visiting sites and claim rewards.
 This script can handle errors like (FloodWaitError, ChannelsTooMuchError, UsernameNotOccupiedError, ChannelPrivateError, ChatWriteForbiddenError)
